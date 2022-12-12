@@ -19,6 +19,8 @@ button a {
 
 /* 페이지 마다 상단 고정 타이틀 */
 .sub-title{
+    width:100%;
+    height:55px;
     display: flex;
     border-bottom: 1px solid #C0C0C0;
     margin-top: 70px;
