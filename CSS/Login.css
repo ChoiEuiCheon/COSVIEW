@@ -5,7 +5,6 @@
     border-bottom:2px solid #C0C0C0;
     display: flex;
     justify-content: space-between;
-    padding: 10px;
 }
 .log-input td input{
     width: 300px;
