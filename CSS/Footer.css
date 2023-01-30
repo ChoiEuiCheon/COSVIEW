@@ -3,6 +3,7 @@ footer{
     margin-top: 200px;
     padding: 100px;
     width: 100%;
+    margin: 0 auto;
 }
 .fot-a a{
     text-decoration: none;
