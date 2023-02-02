@@ -5,6 +5,8 @@
 
 }
 #searchbox{
+   text-align: center; 
+   justify-content: center;
 }
 #searchbox2{
     text-align: left;
