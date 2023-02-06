@@ -22,7 +22,6 @@
         float:left;
     }
     
-
     /* information */
     .age-gender{
         width:60px; height:100%; display:inline-block; border:1px solid gray;text-align: center;
@@ -31,6 +30,7 @@
     .setting{
         float:left;
     }
+
     /* submenu */
     .sub-menu div{
         display: inline-block;
