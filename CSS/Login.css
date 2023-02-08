@@ -38,6 +38,9 @@
     color: gray;
 }
 .login-etc a{
+    text-decoration: none;
+    color: gray;
+    margin-left: 2px;
     margin-right: 2px;
 }
 .sign-view{
