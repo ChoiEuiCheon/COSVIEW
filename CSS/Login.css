@@ -35,6 +35,7 @@
     box-shadow: 3px 3px 3px 3px gray;
 }
 .login-etc{
+    color: gray;
 }
 .login-etc a{
     text-decoration: none;
