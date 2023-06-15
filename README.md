@@ -11,7 +11,7 @@ USING VISUAL STUDIO CODE</br>
   <img src="https://github.com/ChoiEuiCheon/COSVIEW/assets/103105033/bd535128-2522-4908-98f0-92c0d3d3fcb8"]>
 </p>
 <p align="center"
-  <img src="https://github.com/ChoiEuiCheon/COSVIEW/assets/103105033/bd535128-2522-4908-98f0-92c0d3d3fcb8"]>
+  <img src="https://github.com/ChoiEuiCheon/COSVIEW/assets/103105033/642bf1d7-c487-49e8-adca-2b5890ad7fe5"]>
 </p>
 <p align="center"
   <img src="https://github.com/ChoiEuiCheon/COSVIEW/assets/103105033/bc2bda47-eaac-484c-8901-83be0bd49873"]>
