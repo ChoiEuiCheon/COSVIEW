@@ -1,5 +1,6 @@
 TEAM PROJECT</br>
 USING VISUAL STUDIO CODE</br>
+HTML, CSS, JavaScript
 
 # Main-page
 ![image](https://github.com/ChoiEuiCheon/COSVIEW/assets/103105033/2c5c8e3c-e4cf-4c53-97ac-d6da646ae15b)
